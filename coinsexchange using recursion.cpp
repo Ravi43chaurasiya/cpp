@@ -1,3 +1,6 @@
+// let dinomination[ ]={1,7,10}
+/* amount =15
+find the minimum number of coins to give exchange of amount*/
 #include<iostream>
 #include<climits>
 
